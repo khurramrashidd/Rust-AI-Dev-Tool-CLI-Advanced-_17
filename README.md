@@ -42,6 +42,9 @@ cargo run -- fix --path <project_path> --output result.txt
 ```
 
 ---
+## Example
+<img width="1298" height="524" alt="image" src="https://github.com/user-attachments/assets/152cf170-f80e-4621-a496-5d62ccec2779" />
+---
 
 ## 🧠 Concepts Practiced
 
