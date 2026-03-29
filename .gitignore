@@ -1,0 +1,22 @@
+# 🔧 Rust build
+/target/
+
+# 🔒 Keep Cargo.lock (recommended for apps)
+
+# 🧠 Rust temp
+**/*.rs.bk
+
+# 💻 IDE
+.vscode/
+.idea/
+
+# 🪟 OS
+.DS_Store
+Thumbs.db
+
+# 🧪 Logs
+*.log
+
+# 🔐 Secrets (IMPORTANT)
+.env
+.env.*
